@@ -42,8 +42,8 @@ export function Letters() {
       <PaperCard className="stitched bg-white/60">
         <p className="font-hand text-2xl text-rose-700">One more envelope</p>
         <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-          Space for the letter neither of you has written yet. Add it to
-          <span className="font-mono text-xs"> src/data/couple.ts</span> and it appears here, styled the same.
+          Write a letter or something
+          <span className="font-mono text-xs"> please</span>
         </p>
       </PaperCard>
     </div>
