@@ -48,8 +48,7 @@ export function Timeline() {
       <PaperCard tape="top-left" className="stitched bg-white/60">
         <p className="font-hand text-2xl text-rose-700">Writing a new day</p>
         <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-          Every day on this page is a message and a feeling. Add or edit them any time from the
-          admin page — no code needed.
+          Every day on this page is a message and a feeling.
         </p>
         <Link
           to="/admin"
