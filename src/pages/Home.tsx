@@ -80,7 +80,7 @@ export function Home() {
         <SectionHeading
           kicker="Recent pages"
           title="The latest glue-ups"
-          blurb="Everything in pictures/ gets filed here automatically, newest on top."
+          blurb="newest on top."
           className="flex flex-wrap items-end justify-between gap-4"
         />
         {loading ? (
