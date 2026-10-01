@@ -34,7 +34,7 @@ export function Admin() {
       <SectionHeading
         kicker="Admin"
         title="Change anything, any time"
-        blurb="Everything here saves straight to Supabase and appears on the scrapbook immediately."
+        blurb="Change e very very fast."
       />
 
       <div className="flex flex-wrap items-center gap-2">
@@ -85,7 +85,7 @@ function LoginPanel({ onSignIn }: { onSignIn: (email: string, password: string) 
       <SectionHeading
         kicker="Admin"
         title="Sign in"
-        blurb="Use the email you created in Supabase. The password is the one you set there."
+        blurb="Your Email and Password."
         align="center"
       />
       <form onSubmit={submit} className="photo-frame space-y-4 rounded-2xl bg-white/90 p-6">
